@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="iPhone16ProMax" targetId="a7fbf153fa3d4f84a2bb2304d450b287" version="14.0" toolVersion="v7.4.1" bbox="-0.00850924 -0.0819274 -0.0403723 0.00844499 0.0864481 0.0404686" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="iPhone16ProMax" assemblyId="2c470361c7534bc0bfcced29b051e7dc">
+        <Part name="iPhone16ProMax" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

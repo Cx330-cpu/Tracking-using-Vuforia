@@ -1,0 +1,34 @@
+========== VUFORIA_EXP SUMMARY ==========
+reason=OnApplicationQuit
+condition=rear_visible_static
+csv=/Users/tongbingwen/Tracking using Vuforia/Vuforia/logs/vuforia_frames_rear_visible_static_20260821_125728.csv
+duration_s=11.313
+frames_total=13188
+frames_tracked=0
+frames_extended=0
+frames_limited=0
+frames_no_pose=13188
+status_changes=1
+success_rate_tracked_pct=0
+success_rate_tracked_or_extended_pct=0
+registration_ms=NA
+fps_mean=1487.759
+latency_frame_dt_ms_mean=0.858
+tracking_time_ms_mean=0.707
+end_to_end_latency_ms=UNKNOWN_capture_to_photon__use_frame_dt_ms_as_proxy
+network_latency_ms=N/A
+pose_jitter_cm_mean=NA
+pose_jitter_deg_mean=NA
+translation_error_cm_mean=NA
+rotation_error_deg_mean=NA
+translation_error_note=computed_vs_groundTruth_transform
+dropped_frames=3
+dropped_frames_pct=0.023
+unity_alloc_mb_mean=455.575
+gfx_driver_mb_mean=627.902
+graphics_memory_mb=38338
+gpu=Apple M5 Pro
+device=Mac17,9
+unity=2022.3.62f3
+platform=OSXEditor
+==========================================
